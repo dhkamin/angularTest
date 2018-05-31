@@ -12,7 +12,13 @@
     transform: translateX(-50%);
     
 }
+.nav-link{
+    color: white;
+}
+/**.nav-link :hover{
+    color: rgb(73, 73, 73);
 
+ }**/
 .container .title-site{
 
     position: absolute;
